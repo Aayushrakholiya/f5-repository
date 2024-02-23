@@ -1,4 +1,11 @@
-
+/*
+* FILE : f5.ccp
+* PROJECT : SENG1000 - Focused Assignment #5
+* PROGRAMMER : Ayushkumar Bhupatbhai Rakholiya (ID-8961894)
+* FIRST VERSION : 2024-02-019
+* DESCRIPTION :
+* This program gets integers from the user and determines the highest value.
+*/
 #include<stdio.h>
 
 // function declaration
